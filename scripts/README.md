@@ -15,6 +15,9 @@ waybar
    gtk menu?
 hyprpanel instead of waybar?
     
+git
+    less
+
 fish
     fisher
         puffer-fish?
